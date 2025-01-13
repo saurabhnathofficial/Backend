@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #dadada;
+    height: 12vh;
+    text-align: center;
+    line-height: 12vh;
+
+}
+
+h1{
+    color: #ffff;
+    font-size: 6vw;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10vh 0vh;
+}
+main a{
+    text-decoration: none;
+    outline: none;
+    padding: 10px 20px;
+    background-color: #b4b4b4;
+    color: #ffff;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
